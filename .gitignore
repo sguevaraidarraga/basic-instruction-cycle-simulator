@@ -1,0 +1,19 @@
+# Cmake
+cmake-build-debug-mingw/
+cmake-build-debug/
+CMakeCache.txt
+CMakePresets.json
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# IDE Folders
+build/
+.idea/
+.vscode/
+
+# Test folders
+test/
+
+# Executables
+*.exe
